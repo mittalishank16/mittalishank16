@@ -17,7 +17,7 @@ My work applies statistical analysis, modeling, and experimentation to turn data
 ## Tech Stack
 
 **Languages and Tools**  
-Python, SQL, Excel
+Python, SQL
 
 **Machine Learning and AI**  
 Pandas, NumPy, Scikit-learn  
@@ -25,7 +25,7 @@ PyTorch, TensorFlow
 Hugging Face
 
 **Analytics and Visualization**  
-Power BI, Tableau, Streamlit
+Excel, Power BI, Tableau, Streamlit
 
 ---
 
