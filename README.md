@@ -31,14 +31,15 @@ Excel, Power BI, Tableau, Streamlit
 
 ## Selected Projects
 
-**AML Transaction Detection Using Machine Learning**  
-Machine learning system for identifying illicit financial transactions in highly imbalanced datasets.  
-Focused on feature engineering, imbalance handling, and evaluation under realistic deployment conditions.
+**LexRAG**  
+LexRAG is an end-to-end intelligent legal research assistant with a 7-node LangGraph agentic pipeline to deliver grounded, cited answers from 
+the Indian Constitution, IPC, CrPC, Evidence Act, and user-uploaded documents. It includes a standalone Contract Intelligence module with 
+automated Gmail renewal reminders.
 
-**ECG Classification Using Deep Learning**  
-Deep learning system for ECG signal classification, covering multi-class arrhythmia detection and binary normal vs abnormal classification.  
-Used 1D CNNs for feature extraction with LSTM and BiLSTM layers for temporal modeling.
+**PPE Safety Detection System**  
+Real-time Personal Protective Equipment (PPE) violation detection for construction and industrial environments. Fine-tuned YOLOv8 object detection 
+model with ByteTrack multi-object tracking, served through a FastAPI inference API, persisted to PostgreSQL.
 
-**Log Classification With Hybrid Classification Framework**  
-Hybrid log classification system combining rule-based methods, classical machine learning models, and large language models.  
-Designed to perform reliably across structured logs, complex patterns, and low-data scenarios.
+**Detecting Anti-Money Laundering (AML) Activities Using Machine Learning**  
+The work focuses on identifying illicit financial transactions hidden within massive volumes of legitimate activity by explicitly addressing extreme 
+class imbalance, applying robust feature engineering, and evaluating multiple machine learning models under realistic deployment conditions.
